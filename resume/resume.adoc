@@ -2,8 +2,8 @@
 I strive to change the way people think about Information Technology/Operations through transparent problem solving and maintainable solutions. I enjoy the challenges of combining product requirements with available resource constraints to deliver quality infrastructure. I am motivated by the great people I get to work with and being a critical part of our customer's success.
 
 == Contact Info
-* 444 Sierra Point Road, Brisbane CA
-* 408.981.8750 - polynomial@gmail.com
+* 408.981.8750
+* polynomial@gmail.com
 * Github: https://github.com/polynomial[polynomial]
 * LinkedIn: https://www.linkedin.com/in/polynomial[polynomial]
 * Twitter: https://twitter.com/pj_brew[@pj_brew]
