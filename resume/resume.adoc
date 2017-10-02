@@ -1,5 +1,5 @@
 = Benjamin Smith
-I strive to change the way people think about Information Technology/Operations through transparent problem solving and maintainable solutions. I enjoy the challenges of combining product requirements with available resource constraints to deliver quality infrastructure. I am motivated by the great people I get to work with and being a critical part of our customer's success.
+I strive to change the way people think about Information Technology/Operations through transparent problem solving and maintainable solutions. I enjoy the challenges of combining product requirements with available resource constraints to deliver reliable and reproducible infrastructure. I am motivated by the great people I get to work with and being a critical part of our customer's success.
 
 == Contact Info
 * 408.981.8750
@@ -10,14 +10,19 @@ I strive to change the way people think about Information Technology/Operations 
 
 == Areas of Expertise
 * High Availability
-* Sub-second Services
+* Low Latency Services
 * Business Risk Analysis (SLA/KPI)
-* Team Training
-* Large Scale Installations
-* Network Storage Architecture and Implementation
+* Team Cohesion
 
 == Work Experience
-=== https://www.lookout.com/[Lookout] - November 2014 to Present
+=== http://referentiallabs.com/[Referntial Labs] - August 2016 to Present
+==== Distributed Systems Engineer for Hire - Consulting group focused on improving human well-being through software. Some key projects included:
+* Identify gaps in application monitoring to improve system visibility and customer experience
+* Reduce cloud operating expenditure with infrastructure deployment automation
+* Reduce business risk by defining security policies for cloud infrastructure deployment
+* Improve team cohesion by defining success metrics and identifying friction points in the delivery cycle
+
+=== https://www.lookout.com/[Lookout] - November 2014 to August 2016
 ==== Principal Engineer - Cloud Operations architect and performance engineering. Improved operations delivery quality through automation and infrastructure validation.
 * Improved hiring practices to encourage strong candidates that would grow the organization
 * Issue escalation for critical infrastructure (Network, Cassandra, MySQL, Elasticsearch, Kafka, etc)
