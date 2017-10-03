@@ -6,7 +6,7 @@ I strive to change the way people think about Information Technology/Operations 
 * polynomial@gmail.com
 * Github: https://github.com/polynomial[polynomial]
 * LinkedIn: https://www.linkedin.com/in/polynomial[polynomial]
-* Twitter: https://twitter.com/pj_brew[@pj_brew]
+* Keybase: https://keybase.io/polynomial[polynomial]
 
 == Areas of Expertise
 * High Availability
@@ -15,15 +15,15 @@ I strive to change the way people think about Information Technology/Operations 
 * Team Cohesion
 
 == Work Experience
-=== http://referentiallabs.com/[Referntial Labs] - August 2016 to Present
-==== Distributed Systems Engineer for Hire - Consulting group focused on improving human well-being through software. Some key projects included:
+=== Distributed Systems Engineer for Hire - http://referentiallabs.com/[Referential Labs] - August 2016 to Present
+* Worked with high throughput (>100,000hits/minute) low latency (<2ms 99.999%) applications to reduce jitter and automate outlier analysis
 * Identify gaps in application monitoring to improve system visibility and customer experience
 * Reduce cloud operating expenditure with infrastructure deployment automation
 * Reduce business risk by defining security policies for cloud infrastructure deployment
 * Improve team cohesion by defining success metrics and identifying friction points in the delivery cycle
 
-=== https://www.lookout.com/[Lookout] - November 2014 to August 2016
-==== Principal Engineer - Cloud Operations architect and performance engineering. Improved operations delivery quality through automation and infrastructure validation.
+=== Principal Engineer - https://www.lookout.com/[Lookout] - November 2014 to August 2016
+==== Cloud Operations architect and performance engineering. Improved operations delivery quality through automation and infrastructure validation.
 * Improved hiring practices to encourage strong candidates that would grow the organization
 * Issue escalation for critical infrastructure (Network, Cassandra, MySQL, Elasticsearch, Kafka, etc)
 * Failure testing procedures and training
@@ -31,8 +31,8 @@ I strive to change the way people think about Information Technology/Operations 
 * Monitoring stack improvements (self service!)
 * Infrastructure automation advocacy, training, documentation, and implementation
 
-=== https://www.jivesoftware.com/[Jive Software] - August 2012 - November 2014
-==== Principal Engineer - Team lead for SaaS operations group. Worked with multiple engineering teams and product groups to enable self-service engineering application deployment.
+=== Principal Engineer - https://www.jivesoftware.com/[Jive Software] - August 2012 - November 2014
+==== Team lead for SaaS operations group. Worked with multiple engineering teams and product groups to enable self-service engineering application deployment.
 * CI/CD pipeline design and implementation
 * Monitoring stack design and improvements
 * Automation architecture and implementation (puppet, ansible)
@@ -40,16 +40,16 @@ I strive to change the way people think about Information Technology/Operations 
 * Ops tool set standarization
 * Engineering Advocate inside TechOps Organization
 
-=== Boltnet, Inc. - February 2010 to August 2012
-==== Systems Architect - First employee, designed, implemented and scaled infrastructure to three data centers serving >15,000 hits/second across billions of landing pages.
+=== Systems Architect - Boltnet, Inc. - February 2010 to August 2012
+==== First employee, designed, implemented and scaled infrastructure to three data centers serving >15,000 hits/second across billions of landing pages.
 * Work with engineers to resolve scale/load issues
 * Designed and implemented the architecture that runs the BO.LT application (cloud and in-house)
 * Performance monitoring (BGP visualization, OpenNMS, Keynote, log parsing)
 * Release Engineering (git integration, test automation)
 * Configuration management (revision control, deployment)
 
-=== https://www.tivo.com/[TiVo Inc.] - June 2008 to February 2010
-==== Operations Architect. Worked with multiple operations and engineering groups to help architect and improve several different applications deployed internationally to over 700,000 concurrent clients.
+=== Operations Architect - https://www.tivo.com/[TiVo Inc.] - June 2008 to February 2010
+==== Worked with multiple operations and engineering groups to help architect and improve several different applications deployed internationally to over 700,000 concurrent clients.
 
 * Designed and implemented numerous improvements to the tool-set used by administrators to diagnose problems.
 * Improved monitoring coverage through configuration and helping guide monitoring application development (in-house application).
@@ -58,7 +58,7 @@ I strive to change the way people think about Information Technology/Operations 
 * Liaison with multiple engineering groups for future state architecture steering, bug diagnostics and prioritization.
 * Significantly reduced on-call 'fires' by tracking recurring problems and helping focus limited resources on the most beneficial fixes.
 
-=== http://www.adobe.com/marketing-cloud/testing-targeting/search-driven-merchandising.html[Atomz] - January 2001 to June 2008
+=== Operations Engineer - http://www.adobe.com/marketing-cloud/testing-targeting/search-driven-merchandising.html[Atomz] - January 2001 to June 2008
 ==== Designed, built, scaled, upgraded and maintained a large highly available network serving over 50,000 customers out of 4 data centers in 2 countries.
 * Achieved application availability of 99.999% by building a fail-safe BGP/DNS load sharing system
 * Developed real-time(<60s delay) dashboard for monitoring network statistics (traffic levels, request resource utilization, CPU/IO/Mem queue wait times, etc)
@@ -71,42 +71,10 @@ I strive to change the way people think about Information Technology/Operations 
 * Helped improve QA procedures for more thorough and automated testing (test case design and tool research)
 * Escalated issue resolution/troubleshooting for multiple business units 24x7
 
-=== Nortel Networks - contract - November 2000 to December 2000
-==== Responsible for QA and engineering lab machines running Solaris, HP-UX, AIX, OSF/1, IRIX, Linux, SunOS.
-* Implemented backup solution using Amanda
-* Hardware upgrades for Sun and IBM machines
-* Hardware diagnostics for Sun, IBM, SGI, and DEC equipment
-* SLA design for our group in relation to hardware reliability and network quality of service
-
-=== http://www.sanmina.com/[Sanmina] - contract - August 2000 to November 2000
-==== Part of a 7 member team that maintained a production network of Oracle clusters serving 3000 concurrent users from over 75 office locations.
-* Employee and Machine information database converged into LDAP
+=== Cisco Systems, Nortel, Sanmina - freelance - 2000
 * Oracle disaster recovery architecture implementation
-* Sun hardware administration
-* Mail server performance tuning
-
-=== http://www.cisco.com/[Cisco] - contract - April 2000 to August 2000
-==== Part of a 30 member team which ensured the availability of the engineering infrastructure. This included build, e-mail, FTP, NFS, and web servers. 
 * Train staff in UNIX diagnostics
-* Setup monitoring and display stations
 * Lab design and setup for training, using Cisco routers and Sun machines
-
-== Experience
-=== Data Services
-Cassandra, Elasticsearch, MySQL, Kafka, Zookeeper, HDFS, Redis, memcache
-
-=== Programming Languages
-Bourne shell, Nix, python, perl, awk, ruby
-
-=== Automation Tooling
-Chef, Puppet, Ansible, NixOps, Terraform
-
-=== Operating systems
-==== UNIX
-NixOS, FreeBSD, Solaris, Linux (CentOS, Debian, Ubuntu), OpenBSD, OS X
-
-==== Networking
-JunOS, FTOS, IOS, ScreenOS
 
 == Hobbies:
 I love photography, especially sharing ephemeral https://plus.google.com/collection/MC_gY[street art].
